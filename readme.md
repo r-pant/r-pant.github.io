@@ -1,16 +1,15 @@
 # Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
+I have created this Repository containing my portfolio on my data science projects for academic, self learning, and hobby purposes. 
 
+#### Project details are presented in the form of iPython Notebooks.
 
-#### My linked profile link is: (to delete)
+_Note: Data I have used in the projects is for demonstration purposes only.Data can be accessed under data directory._
 
-_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
-
-## Contents
+## Contents:
 
 - ### Machine Learning
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+	_Tools: scikit-learn, Pandas,  Matplotlib, Seaborn_ 
 
 - ### Natural Language Processing
 
@@ -19,7 +18,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Data Analysis and Visualisation
 	- __Python__
 	
-	_Tools: Pandas, Folium, Seaborn and Matplotlib_
+	_Tools: Pandas, Seaborn and Matplotlib_
 
 	- __R__ 
 
