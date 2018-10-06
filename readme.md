@@ -26,6 +26,6 @@ _Note: Data I have used in the projects is for demonstration purposes only.Data 
 - ### Micro Projects: 
 
 	- __Python__
-
+		- [ML with KNN (IRIS dataset)](https://github.com/r-pant/r-pant.github.io/blob/master/ML%20with%20KNN%20(IRIS%20dataset).ipynb): - Project using K Nearest Neighbours algorithm to predict IRIS flower type. 
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at rohitpant127@gmail.com. 
