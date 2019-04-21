@@ -5,10 +5,10 @@ from tweepy import Stream
 import pandas as pd
 
 #Variables that contains the user credentials to access Twitter API 
-access_token = "602972572-81kTtCAh3cNhs2dQvUBTpuC1whbmYPREBRBSY3iM"
-access_token_secret = "WdYPjlzmtsuEtbold6Nxf4NtgJoSicgC1qPuea7Mbb4b0"
-consumer_key = "PF5DDWc0sdAjgWbxlGnFg1TND"
-consumer_secret = "h3bKJTUUc6v2wE6BOg79WY4Y1CFL9OQf6TdqdnEEfzlOcI71rl"
+access_token = "youtaccess_token"
+access_token_secret = "token_secret"
+consumer_key = "API_key"
+consumer_secret = "API_secret"
 
 
 #This is a basic listener that just prints received tweets to stdout.
