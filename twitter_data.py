@@ -4,6 +4,7 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 import pandas as pd
 
+##You need to create a twitter app at developer.twitter.com and then from there fetch required token keys:
 #Variables that contains the user credentials to access Twitter API 
 access_token = "youtaccess_token"
 access_token_secret = "token_secret"
