@@ -13,7 +13,9 @@ _Note: Data I have used in the projects is for demonstration purposes only.Data 
 
 - ### Natural Language Processing
 
-	_Tools: NLTK, scikit_
+	_Tools: NLTK, scikit_learn, Tweepy
+	
+	[ Twitter text analysis (twitter dataset)](https://github.com/r-pant/r-pant.github.io/blob/master/twittr_sntimnt.ipynb): - Extracting data live and than working on to clean and then visualize in plot and as a WordCloud.. 
 
 - ### Data Analysis and Visualisation
 	- __Python__
