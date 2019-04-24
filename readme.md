@@ -7,6 +7,12 @@ _Note: Data I have used in the projects is for demonstration purposes only.Data 
 
 ## Contents:
 
+- ### Deep Learning
+
+	_Tools: scikit-learn, tensorflow, , keras, , Matplotlib
+	
+	 - [ Digit recognition using Google Collaboratory (MNIST dataset)](https://github.com/r-pant/r-pant.github.io/blob/master/mnist.ipynb): - Google Collab is an awsome platform for building models and to use google tools. I tried to create a digit recognition model using Google TPU.
+
 - ### Machine Learning
 
 	_Tools: scikit-learn, Pandas,  Matplotlib, Seaborn_ 
