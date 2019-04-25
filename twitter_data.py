@@ -6,7 +6,7 @@ import pandas as pd
 
 ##You need to create a twitter app at developer.twitter.com and then from there fetch required token keys:
 #Variables that contains the user credentials to access Twitter API 
-access_token = "youtaccess_token"
+access_token = "youraccess_token"
 access_token_secret = "token_secret"
 consumer_key = "API_key"
 consumer_secret = "API_secret"
@@ -32,5 +32,7 @@ if __name__ == '__main__':
     stream = Stream(auth, l)
 
     #This line filter Twitter Streams to capture data by the keywords: 'python', 'javascript', 'ruby'
-    stream.filter(track=['modi'])
+    stream.filter(track=['your_object1', 'object2' ])  ##fill in with data, you want to use to filter your tweets 
+    
+    #Once you replace the relevant data , you can then run the file from cmd and save the output to a text file.
     
