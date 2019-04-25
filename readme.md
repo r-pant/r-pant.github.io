@@ -11,7 +11,7 @@ _Note: Data I have used in the projects is for demonstration purposes only.Data 
 
 	_Tools: scikit-learn, tensorflow, , keras, , Matplotlib
 	
-	 - [ Digit recognition using Google Collaboratory (MNIST dataset)](https://github.com/r-pant/r-pant.github.io/blob/master/mnist.ipynb): - Google Collab is an awsome platform for building models and to use google tools. I tried to create a digit recognition model using Google TPU.
+	 - [ Digit recognition using Google Collab (MNIST dataset)](https://github.com/r-pant/r-pant.github.io/blob/master/mnist.ipynb): - Google Collab is an awsome platform for building models and to use google tools. I tried to create a digit recognition model using Google TPU.
 
 - ### Machine Learning
 
