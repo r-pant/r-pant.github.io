@@ -7,13 +7,14 @@ _Note: Data I have used in the projects is for demonstration purposes only.Data 
 
 ## Contents:
 
-- ### Articles:
+- ### Articles
 
 	- [Understanding Precision and Recall](https://www.analyticsvidhya.com/blog/2020/12/accuracy-and-its-shortcomings-precision-recall-to-the-rescue/): - A blog to help you understand the need of metrices other than accuracy while evaluating any classification model.
 
 	- [Optimizing EDA using Functions in Python](https://www.analyticsvidhya.com/blog/2020/10/optimizing-exploratory-data-analysis-using-functions-in-python/): - A collection 
 
-- ### Machine Learning
+
+- ### Machine Learning projects
 
 	_Tools: scikit-learn, Pandas,  Matplotlib, Seaborn_ 
 
