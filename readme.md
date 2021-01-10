@@ -35,7 +35,7 @@ _Note: Data I have used in the projects is for demonstration purposes only.Data 
 
 	_Tools: NLTK, scikit_learn, Tweepy
 	
-	 - [ Twitter text analysis (twitter dataset)](https://github.com/r-pant/r-pant.github.io/blob/master/twittr_sntimnt.ipynb): - Extracting data live and than working on to clean and then visualize in plot and as a WordCloud.. 
+	 - [ Twitter text analysis (twitter dataset)](https://github.com/r-pant/r-pant.github.io/blob/master/twittr_sntimnt.ipynb): Live data extraction and than working on to clean and then visualize in plot and as a WordCloud.. will further add the sentiment analysis of the same. 
 	    [Python code using tweepy library to extract twitter codes](https://github.com/r-pant/r-pant.github.io/blob/master/twitter_data.py) : - Use this python code and replcae the values to fetch data from twitter.
 
 - ### Deep Learning
@@ -43,6 +43,10 @@ _Note: Data I have used in the projects is for demonstration purposes only.Data 
 	_Tools: scikit-learn, tensorflow, , keras, , Matplotlib
 	
 	 - [ Digit recognition using Google Collab (MNIST dataset)](https://github.com/r-pant/r-pant.github.io/blob/master/mnist.ipynb): - Google Collab is an awsome platform for building models and to use google tools. I tried to create a digit recognition model using Google TPU.
+
+- ### Visualization (Tableau)
+
+	 - [ Presenting the analysis using story and dashboards (superstore dataset)](https://public.tableau.com/views/assignment_superstore_demand_forecasting/Story1?:language=en&:display_count=y&:origin=viz_share_link): -  A submission for superstore dataset.
 
 				
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at rohitpant127@gmail.com. 
