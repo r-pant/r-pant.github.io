@@ -5,6 +5,8 @@ I have created this Repository containing my portfolio on my data science projec
 
 _Note: Data I have used in the projects is for demonstration purposes only.Data can be accessed under data directory._
 
+---
+
 ## Contents:
 
 - ### Articles
@@ -16,20 +18,18 @@ _Note: Data I have used in the projects is for demonstration purposes only.Data 
 
 - ### Machine Learning projects
 
-	_Tools: scikit-learn, Pandas,  Matplotlib, Seaborn_ 
+	_Tools: scikit- Python, sql, Tableau_ 
 
 
-
-
-- ### Data Analysis and Visualisation
+- #### Data Analysis and Visualisation
 	
 	_Tools: Pandas, Seaborn and Matplotlib_
 
+	- [Optimizing EDA using Functions in Python](https://github.com/r-pant/data-hacks/blob/master/data-visualization/Housing%20prices-dataset2_prep%20(1).ipynb): - A collection 
 
-
-- ### Micro Projects: 
 
 	- [ML with KNN (IRIS dataset)](https://github.com/r-pant/r-pant.github.io/blob/master/ML%20with%20KNN%20(IRIS%20dataset).ipynb): - Project using K Nearest Neighbours algorithm to predict IRIS flower type. 
+
 
 - ### Natural Language Processing
 
@@ -48,5 +48,6 @@ _Note: Data I have used in the projects is for demonstration purposes only.Data 
 
 	 - [ Presenting the analysis using story and dashboards (superstore dataset)](https://public.tableau.com/views/assignment_superstore_demand_forecasting/Story1?:language=en&:display_count=y&:origin=viz_share_link): -  A submission for superstore dataset.
 
-				
+---
+
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at rohitpant127@gmail.com. 
